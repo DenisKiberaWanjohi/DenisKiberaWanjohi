@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DenisKiberaWanjohi
-- 👀 I’m interested in understanding end-to-end data.
+- 👀 I’m interested in understanding end-to-end data handling.
 - 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me deniskibera7@gamil.com
